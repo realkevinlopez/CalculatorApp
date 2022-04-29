@@ -375,6 +375,7 @@
                         <outlet property="buttonPlus" destination="6Lt-Gp-cpY" id="d0Y-sP-Lhg"/>
                         <outlet property="buttonTimes" destination="5ta-fe-1Zu" id="lZW-61-cpN"/>
                         <outlet property="labelDisplay" destination="kNh-kg-7cM" id="QiW-VE-4w8"/>
+                        <outlet property="titleLabel" destination="SmJ-TK-uiB" id="74t-Bn-g7E"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
